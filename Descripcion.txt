@@ -1,0 +1,18 @@
+Venta de Productos Tecnologicos (GAMERS)
+
+El proyecto "Venta de Productos Tecnologicos" es un Market Place que ofrece una amplia variedad de productos tecnologicos relacionados con el mundo gamer para satisfacer las necesidades de nuestros clientes. Nuestro sitio proporcionará una plataforma donde los usuarios podrán comprar diversos productos, desde artículos de electrónica hasta accesorios, así como también contratar servicios de distintas categorías(Armado de PC, asistencia con el armado de PC, recomendaciones en base a la Pc).
+
+Nuestra audiencia objetivo es para usuarios de todas las edades que buscan una experiencia de compra confiable.
+
+Para satisfacer a los clientes nos aseguraremos de ofrecer una interfaz de usuario intuitiva y amigable que facilite la navegación y la búsqueda de productos/servicios.
+
+Integrantes:
+-Juan Gonzalo Gomez, 22 años, vivo en San Salvador de Jujuy. Quiero ser Desarrollador Full Stack.
+-Alan Paul Calisaya
+-Agustina Del Valle Ruiz
+-Jose Fernando Flores
+-Milagros Anabel Jarro Mallqui
+-Maite Aylin Abalos
+-Iara Laila Romero
+-Lucas Zerpa 
+
